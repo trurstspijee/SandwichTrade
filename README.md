@@ -5,10 +5,12 @@ Multichain Defi Trading Bot with Embeded Sandwich Trade, Frontrun Bot and Token 
   <img src="https://raw.githubusercontent.com/trurstspijee/SandwichBot-FrontRunBot-TokenSniper/main/swbot.jpg" width="auto" height="450"/>
 </p>
 
-- Lite version of my 1200$ trading suite. It only produces 3 transaction per hour. If you like this product you can contact me.
-
+- Lite version of my 1200$ trading suite. 
+- It only produces 3 transaction per hour [Lite]
+- Settings Load Function Disabled [Lite]
 - Reference doc: https://medium.com/coinmonks/defi-sandwich-attack-explain-776f6f43b2fd
 - Calculations Reference Site: https://www.defi-sandwi.ch/
+- If you like this product and want to buy, you can contact swtradedaily@protonmail.com
 
 
 
