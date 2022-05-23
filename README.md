@@ -2,7 +2,7 @@
 Multichain Defi Trading Bot with Embeded Sandwich Trade, Frontrun Bot and Token Snipe functions.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trurstspijee/SandwichBot-FrontRunBot-TokenSniper/main/swbot.jpg" width="auto" height="450"/>
+  <img src="https://raw.githubusercontent.com/trurstspijee/SandwichTradeBot-FrontRunBot-TokenSniper/main/swbot.jpg" width="auto" height="450"/>
 </p>
 
 - Lite version of my 1200$ trading suite. 
